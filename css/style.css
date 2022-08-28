@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    
+}
+main {
+    margin: 0 190px;
+    
+}
+
+section {
+    display: flex;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #fff;
+    font-family: 'Big Shoulders Display';
+    font-weight: 700;
+}
+
+.div1 {
+    background-color: #e38826;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.img-sedans {
+    padding:  50px 0 0 50px;
+}
+.sedans {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.textsedans {
+    padding: 70px 40px 0 50px;
+    font-size: 15px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    color: #fff;
+}
+
+.button1 {
+    border: none;
+    width: 140px;
+    height: 45px;
+    border-radius: 20px;
+    padding: 0 30px;
+    margin: 60px 50px;
+    font-family:'Lexend Deca';
+    color: #e38826;
+    transition: 0.3s;
+}
+
+.button1:hover {
+    background-color: #e38826;
+    cursor: pointer;
+    color: #fff;
+    border: solid 2px #fff;
+}
+
+.div2 {
+    background-color: #006970;
+}
+
+.img-suvs {
+    padding:  50px 0 0 50px;
+}
+
+.suvs {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.textsuvs {
+    padding: 70px 40px 0 50px;
+    font-size: 15px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    color: #fff;
+}
+
+.button2 {
+    border: none;
+    width: 140px;
+    height: 45px;
+    border-radius: 20px;
+    padding: 0 30px;
+    margin: 60px 50px;
+    font-family:'Lexend Deca';
+    color:  #006970;
+    transition: 0.3s;
+}
+
+.button2:hover {
+    background-color: #006970;
+    cursor: pointer;
+    color: #fff;
+    border: solid 2px #fff;
+}
+.div3 {
+    background-color: #004241;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.img-luxury {
+    padding:  50px 0 0 50px;
+}
+.luxury {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.textluxury {
+    padding: 70px 40px 0px 50px;
+    font-size: 15px;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    color: #fff;
+}
+
+.button3 {
+
+    border: none;
+    width: 140px;
+    height: 45px;
+    border-radius: 20px;
+    padding: 0 30px;
+    margin: 77px 50px 53px 50px;
+    font-family:'Lexend Deca';
+    color: #004241;
+    transition: 0.3s;
+    
+}
+
+.button3:hover {
+    background-color: #004241;
+    cursor: pointer;
+    color: #fff;
+    border: solid 2px #fff;
+}
